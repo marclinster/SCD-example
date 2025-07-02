@@ -1,3 +1,6 @@
+
+
+
 DROP DATABASE IF EXISTS scd_example;
 
 CREATE DATABASE scd_example;
